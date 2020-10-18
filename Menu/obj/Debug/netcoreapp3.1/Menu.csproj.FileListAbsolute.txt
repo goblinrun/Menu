@@ -1,0 +1,13 @@
+C:\Users\Huachen Liu\source\repos\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.exe
+C:\Users\Huachen Liu\source\repos\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.deps.json
+C:\Users\Huachen Liu\source\repos\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.json
+C:\Users\Huachen Liu\source\repos\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.dev.json
+C:\Users\Huachen Liu\source\repos\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.dll
+C:\Users\Huachen Liu\source\repos\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\Huachen Liu\source\repos\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.csprojAssemblyReference.cache
+C:\Users\Huachen Liu\source\repos\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Huachen Liu\source\repos\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfoInputs.cache
+C:\Users\Huachen Liu\source\repos\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfo.cs
+C:\Users\Huachen Liu\source\repos\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.dll
+C:\Users\Huachen Liu\source\repos\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\Huachen Liu\source\repos\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.genruntimeconfig.cache
